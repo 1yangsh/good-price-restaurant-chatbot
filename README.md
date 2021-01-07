@@ -19,7 +19,7 @@
 ![Copy](readme_images/entity.png)
 ![Copy](readme_images/dialog.png)
 
-<h3 align="left">2. Web Hook을 설정하여 CSV파일에서 가게의 정보를 찾아오도록 설계하였다.</h3>
+<h3 align="left">2. Webhook을 설정하여 CSV파일에서 가게의 정보를 찾아오도록 설계하였다.</h3>
 
 - <h5 align="left">코드 작성 부분 : watson_webhook_code </h3>
 
@@ -31,7 +31,7 @@
 
 ## 음성인식 구현과 한계
 
-<h3 align="left">1. Watson의 Developer Tool을 이용해 Watson local Git hub에서 Speech to Text, Text to Speech 작업 코드 작성</h3>
+<h3 align="left">1. Watson의 Developer Tool을 이용해 Watson local Github에서 Speech to Text, Text to Speech 작업 코드 작성</h3>
 
 - <h5 align="left">코드 작성 부분 : watson-voice-bot-20200627061848209-master </h3>
 
