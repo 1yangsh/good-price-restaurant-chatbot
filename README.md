@@ -15,6 +15,12 @@
 - <h5 align="left">2) watson-voice-bot-20200627061848209-master - stt,tts기능을 구현한 코드 </h3>
 - <h5 align="left">3) 1),2)를 제외한 대부분의 코드 ex)app.js</h3>
 
+---
+
+
+
+<br/>
+
 <br/>
 
 <br/>
@@ -41,7 +47,12 @@
 <h3 align="left">3. Facebook Messenger과 연동하여 접근성을 향상시켰다.</h3>
 
 ![Copy](readme_images/fb.png)
+
+---
+
 <br/>
+<br/>
+
 <br/>
 
 ## 음성인식 구현과 한계
