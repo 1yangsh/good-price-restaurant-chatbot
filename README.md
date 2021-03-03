@@ -3,6 +3,8 @@
 
 <br/>
 
+- <a href="https://www.youtube.com/watch?v=n5nJERzv2Ow&t=148s">🖥 시연 영상 바로가기</a>
+
 ## Project description
 
 ![Copy](readme_images/demo_screenshot.png)
